@@ -9,4 +9,19 @@
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=klopiop&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klopiop&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=klopiop&locale=cn&theme=github_dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klopiop&theme=github_dark" align="right" /></center>
+        </td>
+    </tr>
+</table>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klopiop&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<table>
+  <tr>
+    <td>🥰恭喜您成为第<img src="https://profile-counter.glitch.me/honmashironeko/count.svg" alt="" />位访客，感谢您的关注和支持~😍</td>
+  </tr>
+</table>
