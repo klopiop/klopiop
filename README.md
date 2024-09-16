@@ -11,7 +11,7 @@ Learning = ["NLP","AI","Piplines","Scalability", "Storage", "Cloud"]
 # I like 🐍
 Likes = ["Information Retrieval", "Threat Intelligence"]
 ```
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 - 🐧 不知名小学校网安人，摸鱼学习ing。。。 
 - 👨‍💻 经历：<a href="#" target="_blank">关于我，一位底层安全工程狮成长史</a>
 - 🏡 作品：<a href="#" target="_blank">自研"干活"工具箱</a> | 
@@ -19,7 +19,8 @@ Likes = ["Information Retrieval", "Threat Intelligence"]
 - 😺 视频：<a href="https://space.bilibili.com/184501335" target="_blank">B站 米哟</a> | 抖音、YouTube、知乎 Done
 
 
-
+ <center><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klopiop&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</center>
 ## Language
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,kubernetes,docker,c,vim)](https://skillicons.dev)
 
@@ -36,10 +37,5 @@ Likes = ["Information Retrieval", "Threat Intelligence"]
         </td>
     </tr>
 </table>
-<table>
-    <td>
-       <center><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klopiop&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</center>
-    </td>
-</table>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
