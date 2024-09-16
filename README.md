@@ -1,5 +1,13 @@
 ## 我是程序员&网络安全研究员&网络工程师Mi0034 🐟
 
+```python 4em
+Experience = ["Developer", "Researcher", "Coordinator","Admin"]
+Stack = ["System", "Frontend", "Dev Ops", "Backend"]
+Learning = ["NLP","AI","Piplines","Scalability", "Storage", "Cloud"]
+# I like 🐍
+Likes = ["Information Retrieval", "Threat Intelligence"]
+```
+
 - 🐧 不知名小学校网安人，摸鱼学习ing。。。 
 - 👨‍💻 经历：<a href="#" target="_blank">关于我，一位底层安全工程狮成长史</a>
 - 🏡 作品：<a href="#" target="_blank">自研"干活"工具箱</a> | 
@@ -7,7 +15,7 @@
 - 😺 视频：<a href="https://space.bilibili.com/184501335" target="_blank">B站 米哟</a> | 抖音、YouTube、知乎 Done
 
 ## Language
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,kubernetes,docker,c,vim)](https://skillicons.dev)
 
 
 ## 今年汇总 ✨
