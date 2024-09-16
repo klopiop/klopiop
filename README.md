@@ -6,6 +6,9 @@
 - 🌱 技术博客：<a href="https://mi0034.icu" target="_blank">博客『 MII0's Blog 』</a>
 - 😺 视频：<a href="https://space.bilibili.com/184501335" target="_blank">B站 米哟</a> | 抖音、YouTube、知乎 Done
 
+## Language
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ## 今年汇总 ✨
 
