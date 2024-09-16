@@ -2,7 +2,7 @@
 
 - 🐧 不知名小学校网安人，摸鱼学习ing。。。 
 - 👨‍💻 经历：<a href="#" target="_blank">关于我，一位底层安全工程狮成长史</a>
-- 🏡 作品：<a href="#"_blank">自研"干活"工具箱</a> | 
+- 🏡 作品：<a href="#" target="_blank">自研"干活"工具箱</a> | 
 - 🌱 技术博客：<a href="https://mi0034.icu" target="_blank">博客『 MII0's Blog 』</a>
 - 😺 视频：<a href="https://space.bilibili.com/184501335" target="_blank">B站 米哟</a> | 抖音、YouTube、知乎 Done
 
