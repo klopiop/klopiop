@@ -4,6 +4,7 @@
     <td>🥰恭喜您成为第<img src="https://profile-counter.glitch.me/klopiop/count.svg" alt="" />位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
+
 ```python 4em
 Experience = ["Developer", "Researcher", "Coordinator","Admin"]
 Stack = ["System", "Frontend", "Dev Ops", "Backend"]
@@ -24,7 +25,7 @@ Likes = ["Information Retrieval", "Threat Intelligence"]
 
 ## 技能树
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,kubernetes,docker,c,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,c,java,js,html,php,css,wasm,git,kubernetes,docker,vim)](https://skillicons.dev)
 
 
 ## 今年汇总 ✨
