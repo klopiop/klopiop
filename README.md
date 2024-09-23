@@ -19,14 +19,26 @@ Likes = ["Information Retrieval", "Threat Intelligence"]
 - 🌱 技术博客：<a href="https://mi0034.icu" target="_blank">博客『 MII0's Blog 』</a>
 - 😺 视频：<a href="https://space.bilibili.com/184501335" target="_blank">B站 米哟</a> | 抖音、YouTube、知乎 Done
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
+            
 
  <center><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klopiop&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </center>
 
 ## 技能树
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,c,java,js,html,php,css,wasm,git,kubernetes,docker,vim)](https://skillicons.dev)
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,go,py,php,java,js,html,css,kali,ubuntu,vim,bash,powershell,md,anaconda,clion,idea,pycharm,phpstorm,linux,windows,apple,mysql,ps,pr" />
+  </a>
+</p>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## 今年汇总 ✨
 
